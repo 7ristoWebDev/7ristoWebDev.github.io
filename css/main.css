@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: 'Raleway', sans-serif;
+    
 }
 
 .bg {
@@ -157,3 +158,14 @@ header {
 #button_d {
     letter-spacing: 0;
 }
+
+/*footer {
+    position: relative;
+    color: #fff;
+    text-align: center;
+    margin-top: 31.25vh;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.75em;
+    letter-spacing: 0.2em;
+}*/
