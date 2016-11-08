@@ -71,7 +71,7 @@ header {
 }
 
 #virtus {
-    text-align: left;
+    
 }
 
 #virtus_title {
@@ -110,6 +110,22 @@ header {
 #button:hover {
     background-color: rgba(0, 0, 0, 0.3);
     text-decoration: none;
+}
+
+#title_s {
+    letter-spacing: 0;
+}
+
+#titlepgd_m {
+    letter-spacing: 0;
+}
+
+#titlepgd_c {
+    letter-spacing: 0;
+}
+
+#titlepgd_n {
+    letter-spacing: 0;
 }
 
 #button_d {
